@@ -1,2 +1,15 @@
  First file
+#include<stdio.h>
+int main
+{
+	int ino1, ino2;
+	int isum;
+	
+	int sum (isum)
+		{
+			isum=ino1+ino2;
+		}
+		
+	return isum;
 
+}
